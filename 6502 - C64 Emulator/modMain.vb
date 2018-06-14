@@ -1,7 +1,7 @@
 ﻿Module modMain
 #Region "Project Information"
-    Public strProgramTitle As String = "C64 Emulator"
-    Public strRegistryPath As String = "Software\Game Tools\C64 Emulator"
+    Public strProgramTitle As String = "C64 Simulator"
+    Public strRegistryPath As String = "Software\C64 Simulator"
 #End Region
 
 #Region "Simulation Items"
