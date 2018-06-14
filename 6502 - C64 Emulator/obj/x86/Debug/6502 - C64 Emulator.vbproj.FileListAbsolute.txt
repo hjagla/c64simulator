@@ -1,0 +1,21 @@
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.exe
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.pdb
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.xml
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\_6502___C64_Emulator.frmMain.resources
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\_6502___C64_Emulator.Resources.resources
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.vbproj.GenerateResource.Cache
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.exe
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.xml
+C:\Users\jim\Downloads\6502-C64Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.pdb
+C:\Users\Jim\Downloads\6502 - C64 Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.exe
+C:\Users\Jim\Downloads\6502 - C64 Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.xml
+C:\Users\Jim\Downloads\6502 - C64 Emulator\6502 - C64 Emulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.pdb
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.exe
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.xml
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.pdb
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.exe
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.pdb
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\bin\Debug\6502 - C64 Emulator.xml
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\_6502___C64_Emulator.frmMain.resources
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\_6502___C64_Emulator.Resources.resources
+D:\Shared\Git\c64simulator\6502 - C64 Emulator\obj\x86\Debug\6502 - C64 Emulator.vbproj.GenerateResource.Cache
